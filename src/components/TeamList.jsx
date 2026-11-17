@@ -1,3 +1,5 @@
+import TeamCard from './TeamCard'
+
 function TeamList({members}) {
     return (
         <section className="team-list">
